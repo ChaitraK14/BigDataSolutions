@@ -7,3 +7,6 @@ Ans: lmn
 Q3. str
 
 abcdefg
+
+Q4. lmn
+Ans: opq
