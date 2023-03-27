@@ -5,4 +5,5 @@ Q2.pqr
 Ans: lmn
 
 Q3. str
-Ans: def
+
+abcdefg
